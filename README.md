@@ -67,6 +67,15 @@
 
 <p align="center">
   <h1 align="center">
+    <a href="https://neovim.io/"><code>neovim</code></a>
+  </h1>
+  <p align="center">
+    Hyperextensible Vim-based text editor.
+  </p>
+</p>
+
+<p align="center">
+  <h1 align="center">
     <a href=https://github.com/ubnt-intrepid/dot"><code>dot</code></a>
   </h1>
   <p align="center">
